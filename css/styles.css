@@ -1,5 +1,20 @@
+*{
+    background-color: rgb(183, 230, 238);
+}
 .main-header{
     color:red;
     text-align:center;
     font-size: 50px;
+    background-color: rgb(125, 205, 219);
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color:rgb(2, 100, 2);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: rgb(47, 101, 248);
+    background-color: rgb(125, 205, 219);
+    font-family: Arial, Helvetica, sans-serif;
 }
